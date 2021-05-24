@@ -1,4 +1,4 @@
-Sensation Energi is a content management system. 
+Energy CMS is a content management system with MySql. 
 
 It is installed in a very simple way and use. Consists of:
 
@@ -15,5 +15,5 @@ Official website
 Documentation
 2. http://sensationenergy.com/tutorial/e_cms_doc/index.php
 
-Example
+ExampleCancel changes
 3. http://sensationenergy.com/tutorial/cms_e.php
